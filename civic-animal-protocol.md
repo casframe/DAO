@@ -66,7 +66,7 @@ To qualify as a *Civic Animal*, the following must be met:
   "notes": "dug near carrot patch, avoided red-zone rope"
 }
 
-⸻
+---
 
 🧰 Minimum Required Infrastructure
 	•	✅ Small outdoor display (10–40”) looping mimic-friendly media
@@ -139,3 +139,4 @@ https://github.com/your-repo/civic-animal-protocol
 “From wild to aware — not domesticated, but invited.”
 
 ---
+
