@@ -51,23 +51,6 @@ To qualify as a *Civic Animal*, the following must be met:
 
 ---
 
-## 📋 Logging Schema (JSONL example)
-
-```json
-{
-  "ts": "2025-11-10T08:41:22+09:00",
-  "species": "macaca_fuscata",
-  "id_tag": "JP-MF-0139",
-  "zone": "green",
-  "action": "digging",
-  "reward_dispensed": true,
-  "accessory": "collar_orange",
-  "health_check": "normal",
-  "notes": "dug near carrot patch, avoided red-zone rope"
-}
-
----
-
 🧰 Minimum Required Infrastructure
 	•	✅ Small outdoor display (10–40”) looping mimic-friendly media
 	•	✅ Physical zone marking (color flags, rope, scent, texture)
@@ -139,4 +122,22 @@ https://github.com/your-repo/civic-animal-protocol
 “From wild to aware — not domesticated, but invited.”
 
 ---
+
+
+
+## 📋 Logging Schema (JSONL example)
+
+```json
+{
+  "ts": "2025-11-10T08:41:22+09:00",
+  "species": "macaca_fuscata",
+  "id_tag": "JP-MF-0139",
+  "zone": "green",
+  "action": "digging",
+  "reward_dispensed": true,
+  "accessory": "collar_orange",
+  "health_check": "normal",
+  "notes": "dug near carrot patch, avoided red-zone rope"
+}
+
 
