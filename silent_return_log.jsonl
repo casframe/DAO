@@ -1,0 +1,13 @@
+{
+  "ts": "2025-11-09T19:44:00+09:00",
+  "site_id": "JP-SILENT-DAO-03",
+  "species": "sciurus_vulgaris",
+  "individual_id": null,
+  "event": "silent_return",
+  "marker_type": "acorn_single",
+  "marker_placement": "center_feeder",
+  "context": "no feed present",
+  "possible_meaning": "return_gift_or_loyalty_signal",
+  "human_observer": "Yuka",
+  "action_taken": "logged_and_left_untouched"
+}
