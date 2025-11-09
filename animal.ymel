@@ -1,0 +1,15 @@
+species: boar
+location: JP-MIE-TRIAL-01
+interfaces:
+  - weed_zone_display
+  - reward_dispenser
+  - brushing_station
+log_sequence:
+  - approach_distance: decreasing
+  - threat_posture: none
+  - correct_action_count: 5
+behavior_change:
+  - aggression_events: 0 (past 14 days)
+  - tail_wagging: 3
+  - vocalization: low-pitch hum
+status: trust_initiated
