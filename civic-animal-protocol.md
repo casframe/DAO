@@ -105,7 +105,6 @@ For non-commercial ecological DAO experimentation and animal-computer interactio
 🔖 Citation
 
 Kasumi, Y. (2025). Civic Animal Protocol v0.1 — Defining Nonhuman Participants in Ecological DAOs.
-https://github.com/your-repo/civic-animal-protocol
 
 ⸻
 
