@@ -85,17 +85,30 @@ _“野生動物が農業を学ぶ” 映像教育による行動共鳴プロト
 
 ---
 
-## 📊 行動ログ例（JSON Lines）
+🧠 応用例
+	•	出産期の動物：栄養補給の自発行動に転化
+	•	医療ケア連携：収穫後に診療映像を流し誘導
+	•	長期連鎖：映像＋記憶学習で多世代模倣行動
 
-```json
-{
-  "ts": "2025-11-09T17:32:00+09:00",
-  "site_id": "JP-FIELD-NW01",
-  "species": "sciurus_vulgaris",
-  "unit_id": "camB",
-  "event": "harvest_leaf",
-  "reward": true,
-  "latency_reward_ms": 2100,
-  "zone": "green",
-  "comment": "repeated correct action"
-}
+⸻
+
+📌 免責・倫理事項
+	•	映像は暴力・誇張を含まない静的ループに限定
+	•	給餌は過剰にならず健康を損なわない範囲
+	•	人との距離は維持。触れ合いは禁止
+	•	カメラ映像・データは研究目的に限定使用
+
+⸻
+
+✨ ライセンス
+
+Creative Commons CC BY-SA 4.0
+自由に使用・改変可。ただし帰属明記と同条件共有をお願いします。
+
+構文作者：優香（Kasumi Yuka）2025
+
+⸻
+
+💬 Contact
+
+ご意見・実装協力・検証希望は Issue または Pull Request にてどうぞ。
